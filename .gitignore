@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.png
+*.ppm
 # C extensions
 *.so
-
+*.ppm
+*.png
 # Distribution / packaging
 .Python
 build/
